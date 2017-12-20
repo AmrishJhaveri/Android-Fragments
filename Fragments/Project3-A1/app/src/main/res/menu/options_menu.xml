@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Exit A1" android:id="@+id/exit_a1"></item>
+
+    <item android:title="Launch A2" android:id="@+id/launch_a2"></item>
+
+</menu>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project3-A2</string>
+
+    <string name="permission_desc">"Allows the application to open this picture repository app."</string>
+</resources>
